@@ -1,0 +1,9 @@
+﻿  IPEndpoint.cpp
+  net.cpp
+  Packet.cpp
+D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\Net\Packet.cpp(36,34): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  socket.cpp
+D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\Net\socket.cpp(209,51): warning C4267: аргумент: преобразование из "size_t" в "u_long"; возможна потеря данных
+D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\Net\socket.cpp(217,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Net.vcxproj -> D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\x64\Debug\Net.lib

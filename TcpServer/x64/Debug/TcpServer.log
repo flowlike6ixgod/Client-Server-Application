@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\TcpServer\Source.cpp(37,16): warning C4101: num: неиспользованная локальная переменная
+  TcpServer.vcxproj -> D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\x64\Debug\Server.exe

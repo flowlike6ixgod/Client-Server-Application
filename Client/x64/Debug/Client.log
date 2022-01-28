@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\Client\Source.cpp(42,42): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\Client\Source.cpp(51,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Client.vcxproj -> D:\Projects C++\Work\TCP_Server_v3.1 - Copy - Copy\x64\Debug\Client.exe
